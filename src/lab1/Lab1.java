@@ -13,7 +13,9 @@ import java.util.Scanner;
 public class Lab1 {
 
 	public static void main(String[] args) {
-
+		
+		//Adding a random comment here
+		
 		Scanner keyboard = new Scanner(System.in);
 		DueDates run = new DueDates();
 		int size = 0;
